@@ -1,1 +1,1 @@
-# fs-project
+# fs-project full stack project
